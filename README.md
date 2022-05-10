@@ -1,7 +1,3 @@
-<style>
-  img { width: 50%; margin: auto; display: block}
-</style>
-
 # APP THƯ VIỆN ĐIỆN TỬ TDMU
 
 -   Xây dựng ứng dụng thư viện điện tử cho Trường Đại học Thủ Dầu Một
@@ -24,7 +20,7 @@ Tài khoản demo:
 -   Tài khoản: 1724801030055
 -   Mật khẩu: 123456
 
-![Image](https://user-images.githubusercontent.com/62246953/167588644-e43ef563-6ee7-432a-980e-a54cb4d5fbc4.png 'Đăng nhập')
+<img src="https://user-images.githubusercontent.com/62246953/167588644-e43ef563-6ee7-432a-980e-a54cb4d5fbc4.png" alt="Đăng nhập" title="Đăng nhập" style="max-width: 100%">
 
 ## Xem trang chủ
 
