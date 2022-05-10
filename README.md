@@ -1,3 +1,7 @@
+<style>
+  img { width: 50%; margin: auto; display: block}
+</style>
+
 # APP THƯ VIỆN ĐIỆN TỬ TDMU
 
 -   Xây dựng ứng dụng thư viện điện tử cho Trường Đại học Thủ Dầu Một
