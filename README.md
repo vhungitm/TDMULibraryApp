@@ -20,7 +20,9 @@ Tài khoản demo:
 -   Tài khoản: 1724801030055
 -   Mật khẩu: 123456
 
-<img align="center" src="https://user-images.githubusercontent.com/62246953/167588644-e43ef563-6ee7-432a-980e-a54cb4d5fbc4.png" alt="Đăng nhập" title="Đăng nhập" style="width: 300px; max-width: 100%;">
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/62246953/167588644-e43ef563-6ee7-432a-980e-a54cb4d5fbc4.png" alt="Đăng nhập" title="Đăng nhập" style="width: 300px; max-width: 100%;">
+</p>
 
 ## Xem trang chủ
 
