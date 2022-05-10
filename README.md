@@ -21,14 +21,16 @@ Tài khoản demo:
 -   Mật khẩu: 123456
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/62246953/167588644-e43ef563-6ee7-432a-980e-a54cb4d5fbc4.png" alt="Đăng nhập" title="Đăng nhập" style="width: 300px; max-width: 100%;">
+  <img src="https://user-images.githubusercontent.com/62246953/167588644-e43ef563-6ee7-432a-980e-a54cb4d5fbc4.png" alt="Đăng nhập" title="Đăng nhập" style="width: 300px">
 </p>
 
 ## Xem trang chủ
 
 -   Hiển thị top sách hot và sách mới.
 
-![Image](https://user-images.githubusercontent.com/62246953/167588062-fde38bc5-80b3-44ab-ac6c-84665f375c71.png 'Xem trang chủ')
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/62246953/167588062-fde38bc5-80b3-44ab-ac6c-84665f375c71.png" alt="Xem trang chủ" title="Xem trang chủ" style="width: 300px">
+</p>
 
 ## Xem danh sách tất cả sách
 
